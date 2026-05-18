@@ -6,13 +6,6 @@ Portfolio pessoal desenvolvido como parte do Boot Camp da disciplina de Introduc
 
 Site estatico publicado via GitHub Pages apresentando meu perfil como estudante de Ciencia da Computacao e desenvolvedor. Inclui uma visao geral dos meus projetos, habilidades e formas de contato.
 
-## Tecnologias
-
-- HTML5
-- CSS3
-- JavaScript
-- GitHub Pages
-
 ## Acesse
 
 [lucassempreceub07.github.io/github-pages](https://lucassempreceub07.github.io/github-pages)
