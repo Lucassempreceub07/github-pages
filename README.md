@@ -1,10 +1,10 @@
 # github-pages
 
-Portfolio pessoal desenvolvido como parte do Boot Camp da disciplina de Introducao a Computacao no UniCEUB.
+Portfolio pessoal desenvolvido como projeto do Bootcamp I da disciplina de Introducao a Computacao no UniCEUB.
 
 ## Sobre
 
-Site estatico publicado via GitHub Pages apresentando meu perfil como estudante de Ciencia da Computacao e desenvolvedor. Inclui uma visao geral dos meus projetos, habilidades e formas de contato.
+Site criado e publicado via GitHub Pages apresentando meu perfil como estudante de Ciencia da Computacao e desenvolvedor. Inclui uma visao geral dos meus projetos, habilidades e formas de contato.
 
 ## Acesse
 
